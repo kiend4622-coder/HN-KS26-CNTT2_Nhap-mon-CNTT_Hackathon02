@@ -3,7 +3,7 @@
 - **Mã đề:** 09
 - **Họ tên:** ĐỖ TRUNG KIÊN
 - **Lớp:** CNTT2
-- **Link repository:**
+- **Link repository:** https://github.com/kiend4622-coder/HN-KS26-CNTT2_Nhap-mon-CNTT_Hackathon02
 - **Hệ điều hành (Windows/macOS):** WINDOW
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
